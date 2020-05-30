@@ -41,11 +41,6 @@ for (int i = 0; i < len; i++) {
 }
  */
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.EnumSet;
-import java.util.List;
-
 public class RemoveElement {
     public int removeElement(int[] nums, int val) {
         int i=0;

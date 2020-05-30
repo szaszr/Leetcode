@@ -21,6 +21,7 @@ public class MoveZeroes {
                 nums[count++]=nums[i];
             }
         }
+
         while (count<nums.length){
             nums[count++]=0;
         }

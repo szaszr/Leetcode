@@ -5,8 +5,6 @@ Given an array arr, replace every element in that array with the greatest elemen
 
 After doing so, return the array.
 
-
-
 Example 1:
 
 Input: arr = [17,18,5,4,6,1]
