@@ -23,7 +23,6 @@ Input: [0,3,2,1]
 Output: true
 
 Note:
-
 0 <= A.length <= 10000
 0 <= A[i] <= 10000
  */
